@@ -29,3 +29,5 @@ Others things about my Project mobile
 <br>
 
 ## Getting Started
+
+`git clone <repository>`
