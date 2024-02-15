@@ -1,6 +1,6 @@
 # Delivery BBB (Bruno Bosch Cotuca)
 Mobile application about transport and logistics, to improve the connection between the seller and the user!
-<img src='./aasets/imgs/FullAppMobileImage.PNG'>
+<img src='./assets/imgs/FullAppMobileImage.PNG'>
 
 ## About this project
 In this project I used React Native to create the mobile front-end and Node.js for the back-end
