@@ -13,7 +13,12 @@ Connect with me at <a href='https://www.linkedin.com/public-profile/settings?trk
 This project is openSource
 
 # Some Observations about this App
-
-
+Others things about my Project mobile
 ## Functionalities
+1 - Login and Register (The user can enter in the Sytem with your E-mail and password. And can register put the your Name completed, password, and number of driver linsense, also choose the What Category You Drive (A, B, C, D, E)). Have a email verification and reset password screens, if you forgot your password.
+2 - See all requests and your status
+3 - You can confirm the deliver
+4 - The user can choose the position. Choose the your current location and chosse the you destiny, and search.
+5 - You can choose the personal data in your profile
+6 - You can see the dashboard requests, see the sales amount in Real and Total deliveries
 ## Getting Started
