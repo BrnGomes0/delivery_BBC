@@ -1,6 +1,5 @@
 # Delivery BBB (Bruno Bosch Cotuca)
-
-    Mobile application about transport and logistics, to improve the connection between the seller and the user!
+Mobile application about transport and logistics, to improve the connection between the seller and the user!
 
 ## About this project
 
