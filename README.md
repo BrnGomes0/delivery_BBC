@@ -7,12 +7,13 @@ In this project I used React Native to create the mobile front-end and Node.js f
 
 ## Who?
 Email-me: brunownog05@gmail.com
-<hr>
-Connect with me at [My profile in LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-<hr>
+<br>
+Connect with me at <a src='https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile'>My profile in LinkedIn</a>
+<br>
 This project is openSource
 
 # Some Observations about this App
+
 
 ## Functionalities
 ## Getting Started
