@@ -34,35 +34,3 @@ In this project I used <span style="color: orange"><strong>React Native</strong>
 <strong> 6 - See sales amount and total requests</strong>: - You can see the dashboard requests, see the sales amount in Real and Total deliveries
 <br>
 <br>
-
-## Getting Started (Test code)
-<br>
-
-### **First Step (Configure the docker)**
-<br>
-
-- Start Docker for create database container (Postgresql):
-    ```ps
-      docker-compose up
-    ```
-- Conect with the Database (port: 6783):
-    ```ps
-      - 6783:5432
-    ```
-### **Second Step (Run fron-end)**
-<br>
-
-- For install node_modules:
-    ```ps
-      npm install or npm i
-    ```
-- For run the project (Write **a** for start in Android):
-    ```ps
-      - npx expo start
-    ```
-### **Third Step (Run back-end)**
-<br>
-- Run the API with the same port in `properties.yaml`
-
-
-# Enjoy 🐳🐋
