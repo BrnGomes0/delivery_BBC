@@ -1,4 +1,4 @@
-# Delivery BBB (Bruno Bosch Cotuca)
+# Delivery BBB - (Bruno Bosch Cotuca)
 ### Mobile application about transport and logistics, to improve the connection between the seller and the user!
 <br/>
 <img src='./FullAppMobileImage.png'>
