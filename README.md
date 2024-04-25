@@ -1,4 +1,4 @@
-# Delivery BBB - (Bruno Bosch Cotuca)
+# Delivery BBC - (Bruno Bosch Cotuca)
 ### Mobile application about transport and logistics, to improve the connection between the seller and the user!
 <br/>
 <img src='./FullAppMobileImage.png'>
@@ -34,3 +34,7 @@ In this project I used <span style="color: orange"><strong>React Native</strong>
 <strong> 6 - See sales amount and total requests</strong>: - You can see the dashboard requests, see the sales amount in Real and Total deliveries
 <br>
 <br>
+# Getting Started
+## FrontEnd
+## BackEnd
+
