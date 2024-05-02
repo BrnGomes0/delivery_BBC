@@ -43,13 +43,13 @@ public class OrderService {
     }
 
     // PATCH
-//    public Order confirmOrder(@PathVariable Long order_id) throws OrderNotFoundException {
-//        Order order = repositoryOrder.findById(order_id)
-//                .orElseThrow(() -> new OrderNotFoundException("Order Not Found!"));
-//
-//        order.setIsConfirm(true);
-//        return repositoryOrder.save(order);
-//    }
+    public Order confirmOrder(@PathVariable Long order_id) throws OrderNotFoundException {
+        Order order = repositoryOrder.findById(order_id)
+                .orElseThrow(() -> new OrderNotFoundException("Order Not Found!"));
+
+        order.setIsConfirm(true);
+        return repositoryOrder.save(order);
+    }
 
 
 }
