@@ -1,0 +1,17 @@
+version: "3"
+
+services:
+  delivery-db:
+    image: postgres
+    container_name: delivery_bbc
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: root
+      POSTGRES_DB: delivery
+    ports:
+      - "6578:5432"
+    volumes:
+      - delivery-db:/var/lib/postgresql/data/
+
+volumes:
+  delivery-db:
