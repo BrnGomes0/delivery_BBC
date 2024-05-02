@@ -35,6 +35,7 @@ In this project I used <span style="color: orange"><strong>React Native</strong>
 <br>
 <br>
 # Getting Started
+<br>
 ## FrontEnd
 ## BackEnd
 
