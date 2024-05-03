@@ -3,7 +3,7 @@
 <br/>
 <img src='./FullAppMobileImage.png'>
 <br/>
-<br/>
+
 ## About this project
 
 In this project I used <span style="color: orange"><strong>React Native</strong></span> to create the mobile front-end and <span style="color: orange"><strong>Spring Boot</strong></span> for the back-end (RestFul API)
