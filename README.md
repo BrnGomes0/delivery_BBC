@@ -1,4 +1,4 @@
-# Delivery BBC - (*Bruno Bosch Cotuca*) - Project mobile 
+# Delivery BBC - (*Bruno Bosch Cotuca*) - Project mobile FullStack
 ### Mobile application about transport and logistics, to improve the connection between the seller and the user!
 <br/>
 <img src='./FullAppMobileImage.png'>
